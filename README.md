@@ -1,4 +1,4 @@
-# microcontrollers-notes
+# Microcontrollers Notes
 
 This is where I plan to host my lecture note outline for ENGIN-2223 at COD.
 
@@ -11,4 +11,4 @@ This is an introduction to the structure of microprocessors. The topics include 
 [The Yellow Book: The Microcontrollers Textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
 
 [Lab Details](https://doctor-pasquale.com/engin-2223/)
-(The lab manual in its entirety will eventually be posted at that link. Probably 2023 or 2024.(
+(The lab manual in its entirety will eventually be posted at that link. Probably 2023 or 2024.)
