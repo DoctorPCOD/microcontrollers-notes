@@ -56,7 +56,6 @@
 
 ---
 ## Course Objectives
-- Computer architecture
 - Registers
 - Top down software design
 - Computer buses and parallel input/output
