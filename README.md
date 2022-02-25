@@ -4,7 +4,24 @@ This is where I plan to host my lecture note outline for ENGIN-2223 at COD.
 
 ## Course Description
 
-This is an introduction to the structure of microprocessors. The topics include architecture, instruction set, assembly language programming, assembler directives, input/output operations, C language programming for an embedded device, timers, analog-to-digital conversion, interrupts, and timing analysis.
+> This is an introduction to the structure of microprocessors. The topics include architecture, instruction set, assembly language programming, assembler directives, input/output operations, C language programming for an embedded device, timers, analog-to-digital conversion, interrupts, and timing analysis.
+
+## Lecture Note Outlines
+1. [Week One](01_week-one.md)
+2. [Week Two](02_week-two.md)
+3. [Week Three](03_week-three.md)
+4. [Week Four](04_week-four.md)
+5. [Week Five](05_week-five.md)
+6. Week Six
+7. Week Seven
+8. Week Eight
+9. Week Nine
+10. Week Ten
+11. Week Eleven
+12. Week Twelve
+13. Week Thirteen
+14. Week Fourteen
+15. Week Fifteen
 
 ## Resources
 
