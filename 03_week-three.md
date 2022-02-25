@@ -52,6 +52,8 @@
   - Components
   - Program flow (barrier vs. line)
 
+### Activity 4: Arrays
+
 ---
 ## Course Objectives
 - Computer architecture
