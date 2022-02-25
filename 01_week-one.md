@@ -34,13 +34,20 @@
   - Model microcontroller program
 
 ---
-## Course Objectives
+## Resources
+- [Class textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
+- [Arduino Uno schematic (PDF)](https://www.arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf)
+- [Overview of Arduino Uno components](https://docs.arduino.cc/tutorials/uno-rev3/intro-to-board)
+
+---
+## Topical Outline
 - Computer architecture
 - Registers
 - Top down software design
 - Computer buses and parallel input/output
 
-## Resources
-- [Class textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
-- [Arduino Uno schematic (PDF)](https://www.arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf)
-- [Overview of Arduino Uno components](https://docs.arduino.cc/tutorials/uno-rev3/intro-to-board)
+## Course Objectives Covered
+- Describe the basic architecture of a stored-program computer
+- Apply the principles of top down design to microcontroller software development
+- Describe the interfaces for input and output including computer buses, parallel, and serial
+- Describe different types of memory used in microcontroller systems
