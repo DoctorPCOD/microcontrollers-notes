@@ -24,10 +24,18 @@
 - Open lab
 
 ---
-## Course Objectives
+
+## Resources
+- [Class textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
+
+---
+
+## Topical Outline
 - Top down software design
 - Interrupts and real-time events
 - Analog input and output
 
-## Resources
-- [Class textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
+## Course Objectives Covered
+- Apply the principles of top down design to microcontroller software development
+- Describe the interfaces for input and output including computer buses, parallel, and serial
+- Describe different types of memory used in microcontroller systems
