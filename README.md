@@ -1,6 +1,6 @@
 # Microcontrollers Notes
 
-This is where I plan to host my lecture note outline for ENGIN-2223 at COD.
+This is where I host my lecture note outline for ENGIN-2223 at COD. The lecture content comes from the class textbook and lab manual (linked below under resources).
 
 ## Course Description
 
