@@ -20,7 +20,7 @@ This is where I host my lecture note outline for ENGIN-2223 at COD. The lecture 
 11. [Week Eleven](11_week-eleven.md)
 12. [Week Twelve](12_week-twelve.md)
 13. [Week Thirteen](13_week-thirteen.md)
-14. Week Fourteen
+14. [Week Fourteen](14_week-fourteen.md)
 15. Week Fifteen
 
 ## Resources
