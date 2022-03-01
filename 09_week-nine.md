@@ -7,8 +7,8 @@
 ### Activity 11: H-Bridge Motor Driver
 
 ## Wednesday
-- Lab 5: External Interrupts
-  - [Lab 5 website](https://doctor-pasquale.com/microcontrollers-lab-5/)
+- Lab 8: Proportional & Integral Control
+  - [Lab 8 website](https://doctor-pasquale.com/microcontrollers-lab-8/)
 
 ## Friday
 - Serial I/O
