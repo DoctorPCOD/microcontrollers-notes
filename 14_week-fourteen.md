@@ -35,6 +35,7 @@
 
 ## Resources
 - [Class textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
+- [AVR instruction set manual (PDF)](http://ww1.microchip.com/downloads/en/devicedoc/atmel-0856-avr-instruction-set-manual.pdf)
 
 ---
 
