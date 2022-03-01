@@ -15,6 +15,8 @@
   - Parallel I/O vs. serial I/O
   - Simplex vs. duplex (half and full)
   - Synchronous vs. asynchronous
+  - Primary vs. secondary device(s)
+  - Secondary configuration
   - Protocols
     - USART
       - Pins
@@ -24,6 +26,8 @@
     - SPI
       - Pins
       - Configuration registers: `SPSR`, `SPCR`, `SPDR`
+    - TWI
+      - Pins
 
 ### Activity 12: Serial Communication Protocols on the ATmega328P
 
