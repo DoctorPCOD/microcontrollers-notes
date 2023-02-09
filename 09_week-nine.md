@@ -3,6 +3,11 @@
 ## Monday
 - H-bridge (754410)
   - Pinout explanation
+- Control flow: iterative (Section 18.8)
+  - `while` (wait for a condition to be met)
+    - When to use
+    - Syntax
+    - Infinite `while` loop
 
 ### Activity 11: H-Bridge Motor Driver
 
