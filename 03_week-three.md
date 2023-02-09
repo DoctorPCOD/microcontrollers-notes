@@ -19,6 +19,13 @@
     - Pins
     - Configuration registers `ADCSRA`, `ADCSRB`, `ADMUX`
     - `ISR (ADC_vect)`
+- Control flow: conditional (Section 18.7)
+  - `if` review
+- Control flow: iterative (Section 18.8)
+  - `for` (repeat x times)
+    - When to use
+    - Syntax
+    - Infinite `for` loop
 
 ### Activity 3: ADC Configuration Registers
 
@@ -37,15 +44,6 @@
   - Switch case
     - When to use
     - Syntax
-- Controlflow: iterative (Section 18.8)
-  - `for` (repeat x times)
-    - When to use
-    - Syntax
-    - Infinite `for` loop
-  - `while` (wait for a condition to be met)
-    - When to use
-    - Syntax
-    - Infinite `while` loop
 - External functions
   - Attributes
 - Smart Car design plan
