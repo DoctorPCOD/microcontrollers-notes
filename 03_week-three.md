@@ -44,6 +44,7 @@
     - Syntax
 - External functions
   - Attributes
+  - Global vs. local variables
 - Smart Car design plan
   - Components
   - Program flow (barrier vs. line)
