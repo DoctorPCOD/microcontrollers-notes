@@ -13,20 +13,27 @@
   - `&`, `|`, `^`, `~`
   - When to use them (`PORTx`, `PINx`)
   - Why to use them
-- Control flow: conditional (Section 18.7)
-  - `if`/`else if`/`else`
-  - Program flow
-  - Syntax
-  - Mandatory vs. optional components
+- Flowcharts
+  - How they work
+  - Caveats on lab flowcharts
 
 ## Wednesday
 - Lab 1: Introduction to Arduino Uno
   - [Lab 1 website](https://doctor-pasquale.com/microcontrollers-lab-1/)
 
 ## Friday
-- Comparison and Boolean operators (Section 18.5)
+- Comparison operators (Section 18.5)
   - When to use them
   - Why to use them
+  - Format of result
+- Boolean operators (Section 18.5)
+  - When to use them
+  - Why to use them
+- Control flow: conditional (Section 18.7)
+  - `if`/`else if`/`else`
+  - Program flow
+  - Syntax
+  - Mandatory vs. optional components
 - Reading from `PINx` registers
 - Masking and shifting
 
