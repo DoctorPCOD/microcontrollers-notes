@@ -1,6 +1,11 @@
 # Week 6
 
 ## Monday
+- Control flow: conditional (Section 18.7)
+  - `if` review
+  - Switch case
+    - When to use
+    - Syntax
 - Watchdog timer
   - What is it
   - What it can do
