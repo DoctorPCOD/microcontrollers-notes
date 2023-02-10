@@ -19,8 +19,6 @@
     - Pins
     - Configuration registers `ADCSRA`, `ADCSRB`, `ADMUX`
     - `ISR (ADC_vect)`
-- Control flow: conditional (Section 18.7)
-  - `if` review
 - Control flow: iterative (Section 18.8)
   - `for` (repeat x times)
     - When to use
