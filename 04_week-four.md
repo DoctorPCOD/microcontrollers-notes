@@ -9,9 +9,14 @@
     - One-point calibration
     - Multi-point calibration
     - Nonlinear data (equation vs. lookup table)
-  - Dealing with sensor noise
-    - Circular buffer
-    - `n` value
+- `static` keyword
+- Pointers to arrays
+  - What is a pointer
+  - Syntax
+  - Purpose
+- Dealing with sensor noise
+  - Circular buffer
+  - `n` value
 - Floating-point vs. integer math
 
 ### Activity 5: Averaging Temperature Sensor Data
