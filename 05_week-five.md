@@ -2,10 +2,6 @@
 
 ## Monday
 - `SREG` (Chapter 6)
-- Pointers to arrays
-  - What is a pointer
-  - Syntax
-  - Purpose
 - Interrupts (Chapter 13)
   - Program flow: polling vs. interrupts
   - Interrupt service routines
