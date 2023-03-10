@@ -9,6 +9,10 @@
   - `char`, `int`, `long`
   - signed (default) vs. `unsigned`
   - Declaring variables
+- Assignment and arithmetic operators (Appendix F)
+  - Assignment `=`
+  - "Basic" arithmetic (`+`, `-`, `*`, `/`)
+  - Modulo (`%`), modulo of negative numbers
 - Bitwise operators (Section 18.4)
   - `&`, `|`, `^`, `~`
   - When to use them (`PORTx`, `PINx`)
