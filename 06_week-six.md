@@ -40,7 +40,7 @@
   - CTC mode
     - Equation of operation
   - How to use timer/counters
-    - `TCCRxA`, `TCCRxB`, `TCCR1C`, `OCRxn`, `TCNTx`
+    - `TCCRxA`, `TCCRxB`, `TCCR1C`, `OCRxn`, `TCNTx`, `TIMSKx`
 
 ### Activity 8: I/O Clock Frequency
 
