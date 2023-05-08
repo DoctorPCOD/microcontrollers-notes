@@ -16,7 +16,7 @@
   - [Lab 8 website](https://doctor-pasquale.com/microcontrollers-lab-8/)
 
 ## Friday
-- Serial I/O
+- Serial I/O (Chapter 15)
   - Parallel I/O vs. serial I/O
   - Simplex vs. duplex (half and full)
   - Synchronous vs. asynchronous
