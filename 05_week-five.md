@@ -10,6 +10,8 @@
     - Synchronous
   - `reset`
   - Global interrupt masking
+    - When setting up a peripheral
+    - Doing critical comparison operations
 
 ## Wednesday
 - Lab 4: Sensors and Sensor Calibration
