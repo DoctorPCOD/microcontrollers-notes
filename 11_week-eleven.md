@@ -7,7 +7,7 @@
 - Practical exam
 
 ## Friday
-- Fuses
+- Fuses (Section 9.3)
   - High
   - Low
   - Extended
