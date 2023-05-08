@@ -8,7 +8,7 @@
   - [Lab 7 website](https://doctor-pasquale.com/microcontrollers-lab-7/)
 
 ## Friday
-- PI control
+- PI control (Chapter 17)
   - What is feedback control
   - Setpoint vs. measured value
   - Overdamped, underdamped, critically damped
