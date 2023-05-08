@@ -19,7 +19,7 @@
   - [Lab 5 website](https://doctor-pasquale.com/microcontrollers-lab-5/)
 
 ## Friday
-- System clock
+- System clock (Chapter 14)
   - What is a clock
   - Clock sources on the ATmega328P
     - Internal 8 MHz
