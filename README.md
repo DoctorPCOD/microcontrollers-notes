@@ -25,7 +25,6 @@ This is where I host my lecture note outline for ENGIN-2223 at COD. The lecture 
 
 ## Resources
 
-[The Yellow Book: The Microcontrollers Textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
-
-[Lab Details](https://doctor-pasquale.com/engin-2223/)
-(The lab manual in its entirety will eventually be posted at that link. Probably 2023 or 2024.)
+- [The Yellow Book: The Microcontrollers Textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
+- [Lab Details](https://doctor-pasquale.com/engin-2223/)
+- [Lab Manual (PDF)](https://doctor-pasquale.com/wp-content/uploads/2023/05/ENGIN-2223-Lab-Manual.pdf)
