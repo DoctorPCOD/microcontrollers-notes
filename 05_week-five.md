@@ -15,7 +15,6 @@
 
 ## Wednesday
 - Lab 4: Sensors and Sensor Calibration
-  - [Lab 4 website](https://doctor-pasquale.com/microcontrollers-lab-4/)
 
 ## Friday
 - External interrupts
