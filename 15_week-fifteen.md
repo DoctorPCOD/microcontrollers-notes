@@ -5,7 +5,6 @@
 
 ## Wednesday
 - Lab 13: Assembly
-  - [Lab 13 website](https://doctor-pasquale.com/microcontrollers-lab-13/)
 
 ## Friday
 - Line demo
