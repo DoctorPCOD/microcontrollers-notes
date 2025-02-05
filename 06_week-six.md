@@ -16,7 +16,6 @@
 
 ## Wednesday
 - Lab 5: External Interrupts
-  - [Lab 5 website](https://doctor-pasquale.com/microcontrollers-lab-5/)
 
 ## Friday
 - System clock (Chapter 14)
