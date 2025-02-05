@@ -29,7 +29,6 @@
 
 ## Wednesday
 - Lab 2: Digital & Analog Input Devices
-  - [Lab 2 website](https://doctor-pasquale.com/microcontrollers-lab-2/)
 
 ## Friday
 - Arrays (Section 18.3)
