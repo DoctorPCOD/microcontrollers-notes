@@ -23,7 +23,6 @@
 
 ## Wednesday
 - Lab 3: Displays
-  - [Lab 3 website](https://doctor-pasquale.com/microcontrollers-lab-3/)
 
 ## Friday
 - Open lab
