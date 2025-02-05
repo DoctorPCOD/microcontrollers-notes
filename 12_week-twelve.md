@@ -5,7 +5,6 @@
 
 ## Wednesday
 - Lab 10: Power Consumption & ATmega328P without Arduino
-  - [Lab 10 website](https://doctor-pasquale.com/microcontrollers-lab-10/)
 
 ## Friday
 - Line demonstration
