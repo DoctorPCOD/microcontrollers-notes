@@ -5,7 +5,6 @@
 
 ## Wednesday
 - Lab 9: SPI: Serial Peripheral Interface
-  - [Lab 9 website](https://doctor-pasquale.com/microcontrollers-lab-9/)
 
 ## Friday
 - Barrier demonstration
