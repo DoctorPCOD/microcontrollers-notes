@@ -7,7 +7,6 @@
 
 ## Wednesday
 - Lab 12: Ultrasonic Sensor
-  - [Lab 12 website](https://doctor-pasquale.com/microcontrollers-lab-12/)
 
 ## Friday
 - Assembly (Chapter 19)
