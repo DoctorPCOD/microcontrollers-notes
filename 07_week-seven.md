@@ -5,7 +5,6 @@
 
 ## Wednesday
 - Lab 6: Timer/Counters and Timed Interrupts
-  - [Lab 6 website](https://doctor-pasquale.com/microcontrollers-lab-6/)
 
 ## Friday
 - Pulse-width modulation
