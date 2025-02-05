@@ -13,7 +13,6 @@
 
 ## Wednesday
 - Lab 8: Proportional & Integral Control
-  - [Lab 8 website](https://doctor-pasquale.com/microcontrollers-lab-8/)
 
 ## Friday
 - Serial I/O (Chapter 15)
