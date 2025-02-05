@@ -5,7 +5,6 @@
 
 ## Wednesday
 - Lab 11: Transmitting & Receiving a Secret Message
-  - [Lab 11 website](https://doctor-pasquale.com/microcontrollers-lab-11/)
 
 ## Friday
 - Open lab
