@@ -5,7 +5,6 @@
 
 ## Wednesday
 - Lab 7: Pulse-Width Modulation & Motors
-  - [Lab 7 website](https://doctor-pasquale.com/microcontrollers-lab-7/)
 
 ## Friday
 - PI control (Chapter 17)
