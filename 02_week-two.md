@@ -23,7 +23,6 @@
 
 ## Wednesday
 - Lab 1: Introduction to Arduino Uno
-  - [Lab 1 website](https://doctor-pasquale.com/microcontrollers-lab-1/)
 
 ## Friday
 - Comparison operators (Section 18.5)
