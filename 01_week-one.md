@@ -1,41 +1,23 @@
-# Week 1
+# Week 1 topics
 
 ## Monday
-- Course prerequisites (Chapter 3)
-  - What are the most important concepts to remember from digital?
-    - Decimal, binary, hexadecimal
-    - ASCII code
-    - Boolean logic
-    - Registers
-- Introduction to microcontrollers and embedded design (Chapter 4)
-  - What is an embedded system?
-  - Differences between computer and embedded programming
-  - C vs. assembly
-  - 8-bit AVR microcontrollers
-  - AVR vs. Arduino
-  - Choosing a microcontroller for a project
+- Syllabus review
+- Course prerequisites (textbook chapter 3)
+- Introduction to microcontrollers and embedded design (textbook chapter 4)
 
-## Wednesday (Mega Lecture)
-- General principles of microcontrollers (Chapter 5)
-  - Harvard architecture
-  - Block diagram of the Atmega328P and explanation of each component
-- I/O Port Registers (Chapter 10)
-  - Bidirectional characteristics
-  - `DDRx` register
-  - `PORTx` register
-  - `PINx` register
+## Wednesday and Friday
+- Note: there is a lecture on Wednesday in lieu of lab
+- Model microcontroller (textbook chapter 8)
+- ATmega328P block diagram (textbook chapter 5)
+- I/O port registers (textbook chapter 10, labs 1 and 2)
 
 ### Activity 1: General Purpose I/O Hardware
-
-## Friday
-- Model microcontroller (Chapter 8)
-  - Block diagram of a model microcontroller
-  - Instructions and opcodes
-  - Model microcontroller program
 
 ---
 ## Resources
 - [Class textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
+- [Class lab manual (PDF)](https://doctor-pasquale.com/wp-content/uploads/2023/05/ENGIN-2223-Lab-Manual.pdf)
+- [ATmega328P datasheet (PDF)](https://doctor-pasquale.com/wp-content/uploads/2018/11/ATmega328P.pdf)
 - [Arduino Uno schematic (PDF)](https://www.arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf)
 - [Overview of Arduino Uno components](https://docs.arduino.cc/tutorials/uno-rev3/intro-to-board)
 
