@@ -1,13 +1,9 @@
 # Week 9
 
 ## Monday
-- H-bridge (754410)
-  - Pinout explanation
-- Control flow: iterative (Section 18.8)
-  - `while` (wait for a condition to be met)
-    - When to use
-    - Syntax
-    - Infinite `while` loop
+- H-bridge motor driver (754410)
+- Iterative control flow (textbook section 18.8)
+  - `while` loop
 
 ### Activity 11: H-Bridge Motor Driver
 
@@ -15,23 +11,9 @@
 - Lab 8: Proportional & Integral Control
 
 ## Friday
-- Serial I/O (Chapter 15)
-  - Parallel I/O vs. serial I/O
-  - Simplex vs. duplex (half and full)
-  - Synchronous vs. asynchronous
-  - Primary vs. secondary device(s)
-  - Secondary configuration
-  - Protocols
-    - USART
-      - Pins
-      - `Serial.print`
-      - Configuration registers: `UCSR0A`, `UCSR0B`, `UCSR0C`, `UDR0`
-      - (Lab 14)
-    - SPI
-      - Pins
-      - Configuration registers: `SPSR`, `SPCR`, `SPDR`
-    - TWI
-      - Pins
+- Serial I/O (textbook chapter 15)
+- SPI (textbook section 15.4, lab 9)
+- USART (textbook section 15.5, lab 14)
 
 ### Activity 12: Serial Communication Protocols on the ATmega328P
 
