@@ -1,8 +1,8 @@
 # Week 5
 
 ## Monday
+- Interrupts (textbook chapter 13, appendix C)
 - `SREG` (Chapter 6)
-- Interrupts (Chapter 13)
   - Program flow: polling vs. interrupts
   - Interrupt service routines
   - Interrupt sources on ATmega328P
