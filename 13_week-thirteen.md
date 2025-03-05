@@ -30,4 +30,4 @@
 - Identify timing issues and events
 - Describe different types of memory used in microcontroller systems
 
-[^1:] It's possible I may teach assembly during one of these lectures. Refer to week 14 notes for the outline.
+[^1]: It's possible I may teach assembly during one of these lectures. Refer to week 14 notes for the outline.
