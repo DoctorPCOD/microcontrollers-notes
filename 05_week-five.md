@@ -1,38 +1,25 @@
 # Week 5
 
 ## Monday
-- Interrupts (textbook chapter 13, appendix C)
-- `SREG` (Chapter 6)
-  - Program flow: polling vs. interrupts
-  - Interrupt service routines
-  - Interrupt sources on ATmega328P
-    - Asynchronous
-    - Synchronous
-  - `reset`
-  - Global interrupt masking
-    - When setting up a peripheral
-    - Doing critical comparison operations
+- Interrupts (textbook chapter 13, lab manual appendix C)
+- `SREG` (textbook chapter 6)
+- `volatile` variable keyword (textbook section 18.2)
 
 ## Wednesday
 - Lab 4: Sensors and Sensor Calibration
 
 ## Friday
-- External interrupts
-  - `INT0` (D2) and `INT1` (D3)
-  - Trigger conditions
-  - Registers: `EICRA` and `EIMSK`
-- Pin change interrupts
-  - `PCINT0` (port B), `PCINT1` (port C) and `PCINT2` (port D)
-  - Trigger conditions
-  - Registers: `PCICR`, `PCMSK0`, `PCMSK1` and `PCMSK2`
-  - Why these take extra work
-
+- External interrupts (textbook chapter 13, lab 5)
+- Pin change interrupts (textbook chapter 13, lab 5)
+  
 ### Activity 6: External and Pin Change Interrupts
 
 ---
 
 ## Resources
 - [Class textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
+- [Class lab manual (PDF)](https://doctor-pasquale.com/wp-content/uploads/2023/05/ENGIN-2223-Lab-Manual.pdf)
+- [ATmega328P datasheet (PDF)](https://doctor-pasquale.com/wp-content/uploads/2018/11/ATmega328P.pdf)
 
 ---
 
