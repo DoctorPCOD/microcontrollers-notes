@@ -7,25 +7,14 @@
 - Lab 7: Pulse-Width Modulation & Motors
 
 ## Friday
-- PI control (Chapter 17)
-  - What is feedback control
-  - Setpoint vs. measured value
-  - Overdamped, underdamped, critically damped
-  - Proportional control
-    - Kp
-    - Equation
-  - Integral control
-    - Ki
-    - Equation
-  - Derivative control
-    - Kd
-    - Equation
-
+- PI control (textbook chapter 17, lab 8)
 
 ---
 
 ## Resources
 - [Class textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
+- [Class lab manual (PDF)](https://doctor-pasquale.com/wp-content/uploads/2023/05/ENGIN-2223-Lab-Manual.pdf)
+- [ATmega328P datasheet (PDF)](https://doctor-pasquale.com/wp-content/uploads/2018/11/ATmega328P.pdf)
 
 ---
 
