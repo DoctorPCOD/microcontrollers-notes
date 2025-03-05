@@ -1,23 +1,11 @@
 # Week 4
 
 ## Monday
-- Sensors (Chapter 12)
-  - Types of sensors
-  - Electrical signals and conversion to compatable voltage
-  - Sensor calibration
-    - Datasheet calibration
-    - One-point calibration
-    - Multi-point calibration
-    - Nonlinear data (equation vs. lookup table)
-- `static` keyword
-- Pointers to arrays
-  - What is a pointer
-  - Syntax
-  - Purpose
-- Dealing with sensor noise
-  - Circular buffer
-  - `n` value
-- Floating-point vs. integer math
+- Delays ☠️
+- `static` variable keyword (textbook section 18.2)
+- Sensors (textbook chapter 12, lab 4)
+- Sensor calibration (textbook chapter 12, lab 4)
+- Dealing with sensor noise (textbook chapter 12, lab 4)
 
 ### Activity 5: Averaging Temperature Sensor Data
 
