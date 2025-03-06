@@ -22,7 +22,7 @@ The discussion on Assembly may span two lectures.
 - [Class textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
 - [Class lab manual (PDF)](https://doctor-pasquale.com/wp-content/uploads/2023/05/ENGIN-2223-Lab-Manual.pdf)
 - [ATmega328P datasheet (PDF)](https://doctor-pasquale.com/wp-content/uploads/2018/11/ATmega328P.pdf)
-- [AVR instruction set manual (PDF)](http://ww1.microchip.com/downloads/en/devicedoc/atmel-0856-avr-instruction-set-manual.pdf)
+- [AVR instruction set manual (PDF)](https://ww1.microchip.com/downloads/en/DeviceDoc/AVR-Instruction-Set-Manual-DS40002198A.pdf)
 
 ---
 
