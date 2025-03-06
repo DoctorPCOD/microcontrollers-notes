@@ -1,7 +1,7 @@
 # Week 13
 
 ## Monday
-- Open lab[^1]
+- Input capture unit (textbook section 14.7, lab 12)
 
 ## Wednesday
 - Lab 11: Transmitting & Receiving a Secret Message
@@ -30,4 +30,4 @@
 - Identify timing issues and events
 - Describe different types of memory used in microcontroller systems
 
-[^1]: It's possible I may teach assembly during one of these lectures. Refer to week 14 notes for the outline.
+[^1]: It's possible I may start teaching assembly during this lecture. Refer to week 14 notes for the outline.
