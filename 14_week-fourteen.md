@@ -1,32 +1,18 @@
 # Week 14
 
-## Monday
-- Input capture unit
-  - Trigger conditions
-  - Pin
+## Monday and Friday
+
+The discussion on Assembly may span two lectures.
+
+- Assembly (textbook chapter 19, lab 13)
+  - Instruction types (lab manual appendix H)
+  - Data transfer / memory addressing (textbook chapter 7, lab manual appendix G)
+  - Control flow
+  - Functions and interrupts
 
 ## Wednesday
 - Lab 12: Ultrasonic Sensor
 
-## Friday
-- Assembly (Chapter 19)
-  - Instruction set
-    - Data transfer
-    - Arithmetic and logic
-    - Branch
-    - Bit manipulation
-    - Miscellaneous
-  - Memory addressing (Chapter 7)
-    - Registers
-      - General purpose
-      - I/O
-      - Extended I/O
-    - GP register addressing
-    - Immediate addressing
-    - I/O register addressing
-    - Data memory addressing (direct and indirect)
-    - Program memory addressing
-    - Bit addressing
 
 ### Activity 15: Assembly
 
@@ -34,6 +20,8 @@
 
 ## Resources
 - [Class textbook (PDF)](https://doctor-pasquale.com/wp-content/uploads/2021/02/The-Yellow-Book.pdf)
+- [Class lab manual (PDF)](https://doctor-pasquale.com/wp-content/uploads/2023/05/ENGIN-2223-Lab-Manual.pdf)
+- [ATmega328P datasheet (PDF)](https://doctor-pasquale.com/wp-content/uploads/2018/11/ATmega328P.pdf)
 - [AVR instruction set manual (PDF)](http://ww1.microchip.com/downloads/en/devicedoc/atmel-0856-avr-instruction-set-manual.pdf)
 
 ---
